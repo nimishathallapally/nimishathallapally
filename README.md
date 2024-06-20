@@ -12,12 +12,13 @@ I am a Computer Science student passionate about software development, algorithm
 ## Projects
 ### Campus Event Management System (CEMS)
 A full-stack web application built with Django, HTML, and CSS, designed to simplify event management on campus.
-
+<!--
 ### Personal Portfolio Website
 A responsive portfolio website showcasing my projects, skills, and experience.
+-->
 
 ## Skills
-- Programming Languages: Python, C++, C
+- Programming Languages: Python, C++, C , Verilog
 - Web Technologies: HTML, CSS, Django
 - Tools & Technologies: Git, GitHub, Visual Studio Code
 - Databses: SQL,MySQL,PostgreSQL
