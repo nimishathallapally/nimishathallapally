@@ -6,7 +6,7 @@ I am a Computer Science student passionate about software development, algorithm
 - 🌱 I’m currently learning Django for web development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about algorithms, data structures, and Python.
-- 📫 How to reach me: [Email](mailto:nimishathallapally@gmail.com) | [LinkedIn](linkedin.com/in/nimisha-thallapally)
+- 📫 How to reach me: [Email](mailto:nimishathallapally@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nimisha-thallapally/)
 - 😄 Pronouns: She/Her
 
 ## Projects
