@@ -3,7 +3,7 @@
 ## About Me
 I am a Computer Science student passionate about software development, algorithms, and data structures. Currently exploring software development and learning new technologies.
 
-- 🌱 I’m currently learning Django for web development.
+<!-- - 🌱 I’m currently learning Django for web development.-->
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about algorithms, data structures, and Python.
 - 📫 How to reach me: [Email](mailto:nimishathallapally@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nimisha-thallapally/)
