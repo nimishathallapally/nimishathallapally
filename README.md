@@ -9,9 +9,9 @@ I am a Computer Science student passionate about software development, algorithm
 - 📫 How to reach me: [Email](mailto:nimishathallapally@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nimisha-thallapally/)
 - 😄 Pronouns: She/Her
 
-## Projects
+<!---## Projects
 ### Campus Event Management System (CEMS)
-A full-stack web application built with Django, HTML, and CSS, designed to simplify event management on campus.
+A full-stack web application built with Django, HTML, and CSS, designed to simplify event management on campus.-->
 <!--
 ### Personal Portfolio Website
 A responsive portfolio website showcasing my projects, skills, and experience.
@@ -22,9 +22,9 @@ A responsive portfolio website showcasing my projects, skills, and experience.
 - Web Technologies: HTML, CSS, Django
 - Tools & Technologies: Git, GitHub, Visual Studio Code
 - Databses: SQL,MySQL,PostgreSQL
-
+<!--
 ## Education
-- Bachelor of Technology in Computer Science and Engineering, IIITDM Kancheepuram
+- Bachelor of Technology in Computer Science and Engineering, IIITDM Kancheepuram-->
 
 ## Interests
 - Algorithms and Data Structures
